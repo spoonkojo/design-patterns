@@ -1,0 +1,1 @@
+[Five common PHP design patterns](http://www.ibm.com/developerworks/library/os-php-designptrns/)
